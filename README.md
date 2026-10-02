@@ -154,10 +154,8 @@ A web application that helps designers and developers estimate the **time and co
 **Features**
 - Project estimation
 - Time and cost estimation
-- Unit testing
-- End-to-end testing
 
-**Tech:** Angular · TypeScript · JavaScript · Karma · Protractor
+**Tech:** Angular · TypeScript · Karma · Protractor
 
 [Repository →](https://github.com/subhansanjaya/web-development-estimator)
 
