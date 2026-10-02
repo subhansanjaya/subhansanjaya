@@ -16,31 +16,24 @@ Here are some ideas to get you started:
 
 ### Lead Software Engineer | AI & Generative AI | Full-Stack Engineering
 
-Lead Software Engineer with **7+ years of software engineering experience** across **frontend, backend, cloud and enterprise applications**.
+Lead Software Engineer with 7+ years of software engineering experience across frontend, backend, cloud, and enterprise applications.
 
-Currently focused on **Generative AI, Agentic AI and AI-assisted software engineering**, while continuing to work across full-stack development and cloud technologies.
+Currently focused on Generative AI, Agentic AI, and AI-assisted software engineering, while continuing to work across full-stack development and enterprise technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & GenAI:** Python · LLM Integration · RAG · LangChain · LangGraph · MCP · AI Agents · OpenAI · Vector Databases
-
-**AI Evaluation & Observability:** LangSmith · Ragas
-
-**Frontend:** React · Angular · TypeScript · JavaScript · Redux
-
-**Backend:** Python · Java · Node.js · FastAPI · REST APIs
-
-**Databases:** PostgreSQL · MySQL · Oracle / PL/SQL · NoSQL · Vector Databases
-
-**Cloud & DevOps:** AWS · Azure · Lambda · Docker · Kubernetes · CI/CD
-
-**Workflow & Automation:** Camunda · n8n
-
-**AI-Assisted Development:** Cursor · GitHub Copilot · Claude
-
-**Enterprise:** IFS Cloud
+- **AI Engineering:** LLM Integration · RAG · MCP · LangChain · LangGraph
+- **Languages & Backend:** Python · TypeScript · Node.js · Java
+- **Frontend:** React · Next.js · Angular · Redux
+- **Databases:** PostgreSQL · Oracle (PL/SQL) · NoSQL · Vector Databases
+- **Cloud & DevOps:** AWS · Azure · Docker · Kubernetes · CI/CD
+- **AI Observability & Evaluation:** LangSmith · Ragas
+- **Workflow & Automation:** n8n · Camunda
+- **Enterprise:** IFS Cloud
+- **AI-Assisted Development:** Cursor · GitHub Copilot · Claude
+- **Practices:** Agile/Scrum · Cross-functional Collaboration · Code Reviews · Testing · Performance Optimization · Web Security · AI Governance
 
 ---
 
@@ -225,7 +218,6 @@ A custom **Drupal 7 theme based on Bootstrap**, including map integration and re
 - 𝕏 [X / Twitter](https://x.com/subhansanjaya)
 - ▶️ [YouTube](https://www.youtube.com/@SubhanSanjaya)
 - 📷 [Flickr](https://www.flickr.com/photos/subhansanjaya/)
-- 🎵 [TikTok](https://www.tiktok.com/@subhan.kariyawasam)
 
 I enjoy travelling and creating travel videos, which now make up most of my YouTube content. Earlier on, I used to create web development tutorials on YouTube to share what I learned and help others.
 
