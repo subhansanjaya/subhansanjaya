@@ -217,7 +217,7 @@ A custom **Drupal 7 theme based on Bootstrap**, including map integration and re
 - ▶️ [YouTube](https://www.youtube.com/@SubhanSanjaya)
 - 📷 [Flickr](https://www.flickr.com/photos/subhansanjaya/)
 
-I enjoy travelling and creating travel videos, which now make up most of my YouTube content. Earlier on, I used to create web development tutorials on YouTube to share what I learned and help others.
+I used to create web development tutorials on YouTube to share what I learned and help others.
 
 ---
 
