@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **subhansanjaya/subhansanjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,223 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Subhan 👋
+
+### Lead Software Engineer | AI & Generative AI | Full-Stack Engineering
+
+Lead Software Engineer with **7+ years of software engineering experience** across **frontend, backend, cloud and enterprise applications**.
+
+Currently focused on **Generative AI, Agentic AI and AI-assisted software engineering**, while continuing to work across full-stack development and cloud technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & GenAI:** Python · LLM Integration · RAG · LangChain · LangGraph · MCP · AI Agents · OpenAI · Vector Databases
+
+**AI Evaluation & Observability:** LangSmith · Ragas
+
+**Frontend:** React · Angular · TypeScript · JavaScript · Redux
+
+**Backend:** Python · Java · Node.js · FastAPI · REST APIs
+
+**Databases:** PostgreSQL · MySQL · Oracle / PL/SQL · NoSQL · Vector Databases
+
+**Cloud & DevOps:** AWS · Azure · Lambda · Docker · Kubernetes · CI/CD
+
+**Workflow & Automation:** Camunda · n8n
+
+**AI-Assisted Development:** Cursor · GitHub Copilot · Claude
+
+**Enterprise:** IFS Cloud
+
+---
+
+## 🤖 AI Projects
+
+### 🧠 AI SDLC Pipeline
+
+An AI-assisted software development pipeline that turns structured feature specifications into implementation artifacts.
+
+**Features**
+- AI-assisted planning and implementation
+- Test generation
+- Automated quality gates
+- Structured workflows using LangGraph
+- LLM-assisted development with deterministic validation
+
+**Tech:** Python · LangChain · LangGraph · OpenAI · Ollama
+
+[Repository →](https://github.com/subhansanjaya/ai-sdlc-pipeline)
+
+---
+
+### 🔌 AI-Assisted Dev Toolkit — MCP Server
+
+An MCP server for AI-assisted IFS Marble/Aurena development, providing tools for **code generation and validation**.
+
+The approach uses deterministic tooling for tasks that don't require an LLM to reason from scratch, helping improve consistency and potentially **reduce unnecessary LLM calls, latency, and token costs**.
+
+**Features**
+- MCP-based developer tools
+- IFS code generation
+- Code validation
+- Deterministic templates and tooling
+- Cursor integration
+
+**Tech:** TypeScript · MCP · Cursor
+
+[Repository →](https://github.com/subhansanjaya/ai-assisted-dev-toolkit)
+
+---
+
+### 🏢 Enterprise AI Assistant
+
+An enterprise AI assistant focused on retrieving and working with knowledge from enterprise documents.
+
+**Features**
+- RAG-based knowledge retrieval
+- Recursive LLM processing
+- Metadata filtering
+- Document-level access control
+- Authentication and authorization
+- Vector search
+- Enterprise document ingestion
+
+**Tech:** Python · LLMs · RAG · Vector Database
+
+[Repository →](https://github.com/subhansanjaya/enterprise-ai-assistant)
+
+---
+
+### 📅 Appointment Scheduler Agent
+
+An AI-powered scheduling application that connects an agent with external services to perform appointment-related tasks.
+
+**Features**
+- AI agent workflow
+- Tool/function calling
+- Google Calendar integration
+- Appointment scheduling
+- React frontend
+- FastAPI backend
+
+**Tech:** Python · FastAPI · React · Google Calendar · AWS
+
+[Repository →](https://github.com/subhansanjaya/appointment-scheduler)
+
+---
+
+## 📡 IoT & Enterprise Projects
+
+### 💧 IoT Water Quality Monitoring — IFS ESG Hackathon
+
+An IoT-based water quality monitoring solution developed for the **2021 IFS ESG Hackathon**.
+
+Built with **NodeMCU and C++/Arduino**, the solution collects sensor data and sends telemetry to **Azure IoT Central for real-time monitoring and visualization**.
+
+**Sensors:** Turbidity · pH · DHT11/DHT22 · MQ-135 Gas · DS18B20 Waterproof Temperature
+
+**Tech:** C++ · Arduino · NodeMCU · Azure IoT Central · MQTT · ArduinoJson
+
+[Repository →](https://github.com/subhansanjaya/iot-app)
+
+---
+
+## 💻 Software Engineering Projects
+
+### 📊 Dashboard App
+
+A dashboard application built with the **MERN stack and Redux**, allowing users to add widgets based on generated datasets.
+
+**Features**
+- Dashboard widgets
+- Generated datasets
+- Frontend and backend application
+- MongoDB data storage
+- Database seeding
+
+**Tech:** MongoDB · Express · React · Node.js · Redux
+
+[Repository →](https://github.com/subhansanjaya/dashboard-app)
+
+---
+
+### 🧮 Web Development Estimator
+
+A web application that helps designers and developers estimate the **time and cost** required for a proposed web project.
+
+**Features**
+- Project estimation
+- Time and cost estimation
+- Unit testing
+- End-to-end testing
+
+**Tech:** Angular · TypeScript · JavaScript · Karma · Protractor
+
+[Repository →](https://github.com/subhansanjaya/web-development-estimator)
+
+---
+
+### 🌐 Open Charity
+
+A custom **Drupal 7 theme** developed for a charity-focused website.
+
+**Features**
+- Responsive theme development
+- BEM-based CSS structure
+- SASS preprocessing
+- Cross-browser testing
+- Drupal Views and content integration
+
+**Tech:** Drupal 7 · PHP · SASS · CSS · BEM · CKEditor · Views · Slick Carousel
+
+[Repository →](https://github.com/subhansanjaya/open-charity)
+
+---
+
+### 🧑‍💻 Geek Label
+
+A custom **Drupal 7 theme based on Bootstrap**, including map integration and reusable frontend components.
+
+**Features**
+- Responsive Bootstrap-based theme
+- Google Maps integration
+- BEM-based CSS structure
+- SASS preprocessing
+- Cross-browser testing
+- Drupal Views and Web Forms
+
+**Tech:** Drupal 7 · PHP · Bootstrap · SASS · BEM · Google Maps API · JavaScript
+
+[Repository →](https://github.com/subhansanjaya/geek-label)
+
+---
+
+## 💼 Experience Areas
+
+- 🤖 Generative AI & Agentic AI
+- 💻 Full-Stack Engineering
+- 🎨 Frontend & Backend Development
+- ☁️ Cloud & DevOps
+- 🏢 Enterprise Software & IFS Cloud
+- 📡 IoT & Data Integration
+- ✈️ Aviation & Defence
+- ⚙️ Workflow Automation
+- 🔐 AI Governance, Security & Quality
+
+---
+
+## 🌐 Find Me Online
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/subhansanjaya/)
+- 𝕏 [X / Twitter](https://x.com/subhansanjaya)
+- ▶️ [YouTube](https://www.youtube.com/@SubhanSanjaya)
+- 📷 [Flickr](https://www.flickr.com/photos/subhansanjaya/)
+- 🎵 [TikTok](https://www.tiktok.com/@subhan.kariyawasam)
+
+I enjoy travelling and creating travel videos, which now make up most of my YouTube content. Earlier on, I used to create web development tutorials on YouTube to share what I learned and help others.
+
+---
+
+### Building practical software solutions across AI, full-stack engineering, cloud, and enterprise systems.
