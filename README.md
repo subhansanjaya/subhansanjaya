@@ -60,7 +60,7 @@ An enterprise AI assistant focused on retrieving and working with knowledge from
 
 ### 🔌 AI-Assisted Dev Toolkit — MCP Server
 
-An MCP server for AI-assisted IFS Marble/Aurena development, providing tools for **code generation and validation**.
+An MCP server for AI-assisted IFS Marble/Aurena development, providing tools for code generation and validation.
 
 The approach uses deterministic tooling for tasks that don't require an LLM to reason from scratch, helping improve consistency and potentially reduce unnecessary LLM calls, latency, and token costs.
 
