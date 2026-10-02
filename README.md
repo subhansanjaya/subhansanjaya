@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Subhan 👋
 
-### Lead Software Engineer | AI & Generative AI | Full-Stack Engineering
+### Software Engineer | AI & Generative AI | Full-Stack
 
-Lead Software Engineer with 7+ years of software engineering experience across frontend, backend, cloud, and enterprise applications.
+Software Engineer with 7+ years of experience building enterprise applications.
 
-Currently focused on Generative AI, Agentic AI, and AI-assisted software engineering, while continuing to work across full-stack development and enterprise technologies.
+Currently focused on Generative AI, Agentic AI, and AI-assisted software engineering, while continuing to build full-stack and cloud-based solutions.
 
 ---
 
@@ -112,7 +112,7 @@ An AI-powered scheduling application that connects an agent with external servic
 
 ---
 
-## 📡 IoT & Enterprise Projects
+## 📡 IoT
 
 ### IoT Water Quality Monitoring — IFS ESG Hackathon
 
@@ -172,7 +172,7 @@ A custom Drupal 7 theme developed for a charity-focused website.
 - Cross-browser testing
 - Drupal Views and content integration
 
-**Tech:** Drupal 7 · PHP · SASS · CSS · BEM · CKEditor · Views · Slick Carousel
+**Tech:** Drupal 7 · PHP · SASS · CSS · BEM 
 
 [Repository →](https://github.com/subhansanjaya/open-charity)
 
@@ -190,7 +190,7 @@ A custom Drupal 7 theme based on Bootstrap, including map integration and reusab
 - Cross-browser testing
 - Drupal Views and Web Forms
 
-**Tech:** Drupal 7 · PHP · Bootstrap · SASS · BEM · Google Maps API · JavaScript
+**Tech:** Drupal 7 · PHP · Bootstrap · SASS · BEM · Google Maps API
 
 [Repository →](https://github.com/subhansanjaya/geek-label)
 
@@ -219,5 +219,3 @@ A custom Drupal 7 theme based on Bootstrap, including map integration and reusab
 I used to create web development tutorials on YouTube to share what I learned and help others.
 
 ---
-
-### Building practical software solutions across AI, full-stack engineering, cloud, and enterprise systems.
