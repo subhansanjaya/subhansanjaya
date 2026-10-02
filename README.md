@@ -62,7 +62,7 @@ An enterprise AI assistant focused on retrieving and working with knowledge from
 
 An MCP server for AI-assisted IFS Marble/Aurena development, providing tools for **code generation and validation**.
 
-The approach uses deterministic tooling for tasks that don't require an LLM to reason from scratch, helping improve consistency and potentially **reduce unnecessary LLM calls, latency, and token costs**.
+The approach uses deterministic tooling for tasks that don't require an LLM to reason from scratch, helping improve consistency and potentially reduce unnecessary LLM calls, latency, and token costs.
 
 **Features**
 - MCP-based developer tools
@@ -114,11 +114,11 @@ An AI-powered scheduling application that connects an agent with external servic
 
 ## 📡 IoT & Enterprise Projects
 
-### 💧 IoT Water Quality Monitoring — IFS ESG Hackathon
+### IoT Water Quality Monitoring — IFS ESG Hackathon
 
-An IoT-based water quality monitoring solution developed for the **2021 IFS ESG Hackathon**.
+An IoT-based water quality monitoring solution developed for the 2021 IFS ESG Hackathon.
 
-Built with **NodeMCU and C++/Arduino**, the solution collects sensor data and sends telemetry to **Azure IoT Central for real-time monitoring and visualization**.
+Built with NodeMCU and C++/Arduino, the solution collects sensor data and sends telemetry to Azure IoT Central for real-time monitoring and visualization.
 
 **Sensors:** Turbidity · pH · DHT11/DHT22 · MQ-135 Gas · DS18B20 Waterproof Temperature
 
@@ -132,7 +132,7 @@ Built with **NodeMCU and C++/Arduino**, the solution collects sensor data and se
 
 ### 📊 Dashboard App
 
-A dashboard application built with the **MERN stack and Redux**, allowing users to add widgets based on generated datasets.
+A dashboard application built with the MERN stack and Redux, allowing users to add widgets based on generated datasets.
 
 **Features**
 - Dashboard widgets
@@ -149,7 +149,7 @@ A dashboard application built with the **MERN stack and Redux**, allowing users 
 
 ### 🧮 Web Development Estimator
 
-A web application that helps designers and developers estimate the **time and cost** required for a proposed web project.
+A web application that helps designers and developers estimate the time and cost required for a proposed web project.
 
 **Features**
 - Project estimation
@@ -163,7 +163,7 @@ A web application that helps designers and developers estimate the **time and co
 
 ### 🌐 Open Charity
 
-A custom **Drupal 7 theme** developed for a charity-focused website.
+A custom Drupal 7 theme developed for a charity-focused website.
 
 **Features**
 - Responsive theme development
@@ -180,7 +180,7 @@ A custom **Drupal 7 theme** developed for a charity-focused website.
 
 ### 🧑‍💻 Geek Label
 
-A custom **Drupal 7 theme based on Bootstrap**, including map integration and reusable frontend components.
+A custom Drupal 7 theme based on Bootstrap, including map integration and reusable frontend components.
 
 **Features**
 - Responsive Bootstrap-based theme
@@ -202,7 +202,7 @@ A custom **Drupal 7 theme based on Bootstrap**, including map integration and re
 - 💻 Full-Stack Engineering
 - 🎨 Frontend & Backend Development
 - ☁️ Cloud & DevOps
-- 🏢 Enterprise Software & IFS Cloud
+- 🏢 Enterprise Software
 - 📡 IoT & Data Integration
 - ✈️ Aviation & Defence
 - ⚙️ Workflow Automation
