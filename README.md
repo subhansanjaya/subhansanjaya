@@ -39,20 +39,22 @@ Currently focused on Generative AI, Agentic AI, and AI-assisted software enginee
 
 ## 🤖 AI Projects
 
-### 🧠 AI SDLC Pipeline
+### 🏢 Enterprise AI Assistant
 
-An AI-assisted software development pipeline that turns structured feature specifications into implementation artifacts.
+An enterprise AI assistant focused on retrieving and working with knowledge from enterprise documents.
 
 **Features**
-- AI-assisted planning and implementation
-- Test generation
-- Automated quality gates
-- Structured workflows using LangGraph
-- LLM-assisted development with deterministic validation
+- RAG-based knowledge retrieval
+- Recursive LLM processing
+- Metadata filtering
+- Document-level access control
+- Authentication and authorization
+- Vector search
+- Enterprise document ingestion
 
-**Tech:** Python · LangChain · LangGraph · OpenAI · Ollama
+**Tech:** Python · LLMs · RAG · Vector Database
 
-[Repository →](https://github.com/subhansanjaya/ai-sdlc-pipeline)
+[Repository →](https://github.com/subhansanjaya/enterprise-ai-assistant)
 
 ---
 
@@ -75,22 +77,20 @@ The approach uses deterministic tooling for tasks that don't require an LLM to r
 
 ---
 
-### 🏢 Enterprise AI Assistant
+### 🧠 AI SDLC Pipeline
 
-An enterprise AI assistant focused on retrieving and working with knowledge from enterprise documents.
+An AI-assisted software development pipeline that turns structured feature specifications into implementation artifacts.
 
 **Features**
-- RAG-based knowledge retrieval
-- Recursive LLM processing
-- Metadata filtering
-- Document-level access control
-- Authentication and authorization
-- Vector search
-- Enterprise document ingestion
+- AI-assisted planning and implementation
+- Test generation
+- Automated quality gates
+- Structured workflows using LangGraph
+- LLM-assisted development with deterministic validation
 
-**Tech:** Python · LLMs · RAG · Vector Database
+**Tech:** Python · LangChain · LangGraph · OpenAI · Ollama
 
-[Repository →](https://github.com/subhansanjaya/enterprise-ai-assistant)
+[Repository →](https://github.com/subhansanjaya/ai-sdlc-pipeline)
 
 ---
 
