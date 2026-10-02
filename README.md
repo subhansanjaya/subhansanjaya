@@ -213,7 +213,6 @@ A custom Drupal 7 theme based on Bootstrap, including map integration and reusab
 ## 🌐 Find Me Online
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/subhansanjaya/)
-- 𝕏 [X / Twitter](https://x.com/subhansanjaya)
 - ▶️ [YouTube](https://www.youtube.com/@SubhanSanjaya)
 - 📷 [Flickr](https://www.flickr.com/photos/subhansanjaya/)
 
