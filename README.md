@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Subhan 👋
 
-Software Engineer with 7+ years of software engineering experience across frontend, backend, cloud and enterprise applications.
+Software Engineer with 7+ years of software engineering experience.
 
 Currently focused on Generative AI and Agentic AI, while continuing to build full-stack solutions.
 
