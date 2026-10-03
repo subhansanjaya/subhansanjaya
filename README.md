@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Subhan 👋
 
-Software Engineer with 7+ years of experience building enterprise applications.
+Lead Software Engineer with 7+ years of software engineering experience across frontend, backend, cloud and enterprise applications.
 
-Currently focused on Generative AI, Agentic AI, and AI-assisted software engineering, while continuing to build full-stack and cloud-based solutions.
-
+Currently focused on Generative AI and Agentic AI, while continuing to build full-stack and cloud-based solutions.
 ---
 
 ## 🛠️ Tech Stack
