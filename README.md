@@ -132,10 +132,6 @@ Built with NodeMCU and C++/Arduino, the solution collects sensor data and sends 
 
 A dashboard application built with the MERN stack and Redux, allowing users to add widgets based on generated datasets.
 
-**Features**
-- Dashboard widgets
-- Generated datasets
-
 **Tech:** MongoDB · Express · React · Node.js · Redux
 
 [Repository →](https://github.com/subhansanjaya/dashboard-app)
@@ -145,10 +141,6 @@ A dashboard application built with the MERN stack and Redux, allowing users to a
 ### 🧮 Web Development Estimator
 
 A web application that helps designers and developers estimate the time and cost required for a proposed web project.
-
-**Features**
-- Project estimation
-- Time and cost estimation
 
 **Tech:** Angular · TypeScript · Karma · Protractor
 
