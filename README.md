@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Subhan 👋
 
-### Software Engineer | AI & Generative AI | Full-Stack
-
 Software Engineer with 7+ years of experience building enterprise applications.
 
 Currently focused on Generative AI, Agentic AI, and AI-assisted software engineering, while continuing to build full-stack and cloud-based solutions.
@@ -122,7 +120,7 @@ Built with NodeMCU and C++/Arduino, the solution collects sensor data and sends 
 
 **Sensors:** Turbidity · pH · DHT11/DHT22 · MQ-135 Gas · DS18B20 Waterproof Temperature
 
-**Tech:** C++ · Arduino · NodeMCU · Azure IoT Central · MQTT · ArduinoJson
+**Tech:** C++ · Arduino · NodeMCU · Azure IoT Central · MQTT
 
 [Repository →](https://github.com/subhansanjaya/iot-app)
 
@@ -137,9 +135,6 @@ A dashboard application built with the MERN stack and Redux, allowing users to a
 **Features**
 - Dashboard widgets
 - Generated datasets
-- Frontend and backend application
-- MongoDB data storage
-- Database seeding
 
 **Tech:** MongoDB · Express · React · Node.js · Redux
 
@@ -172,27 +167,9 @@ A custom Drupal 7 theme developed for a charity-focused website.
 - Cross-browser testing
 - Drupal Views and content integration
 
-**Tech:** Drupal 7 · PHP · SASS · CSS · BEM 
+**Tech:** Drupal 7 · PHP · SASS · BEM 
 
 [Repository →](https://github.com/subhansanjaya/open-charity)
-
----
-
-### 🧑‍💻 Geek Label
-
-A custom Drupal 7 theme based on Bootstrap, including map integration and reusable frontend components.
-
-**Features**
-- Responsive Bootstrap-based theme
-- Google Maps integration
-- BEM-based CSS structure
-- SASS preprocessing
-- Cross-browser testing
-- Drupal Views and Web Forms
-
-**Tech:** Drupal 7 · PHP · Bootstrap · SASS · BEM · Google Maps API
-
-[Repository →](https://github.com/subhansanjaya/geek-label)
 
 ---
 
@@ -215,7 +192,5 @@ A custom Drupal 7 theme based on Bootstrap, including map integration and reusab
 - 💼 [LinkedIn](https://www.linkedin.com/in/subhansanjaya/)
 - ▶️ [YouTube](https://www.youtube.com/@SubhanSanjaya)
 - 📷 [Flickr](https://www.flickr.com/photos/subhansanjaya/)
-
-I used to create web development tutorials on YouTube to share what I learned and help others.
 
 ---
