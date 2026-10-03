@@ -23,7 +23,7 @@ Currently focused on Generative AI and Agentic AI, while continuing to build ful
 ## 🛠️ Tech Stack
 
 - **AI Engineering:** LLM Integration · RAG · MCP · LangChain · LangGraph
-- **Languages & Backend:** Python · TypeScript · Node.js · Java
+- **Languages & Backend:** Python · TypeScript · Node.js · Java · Go
 - **Frontend:** React · Next.js · Angular · Redux
 - **Databases:** PostgreSQL · Oracle (PL/SQL) · NoSQL · Vector Databases
 - **Cloud & DevOps:** AWS · Azure · Docker · Kubernetes · CI/CD
