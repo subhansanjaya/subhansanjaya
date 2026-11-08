@@ -20,7 +20,7 @@ Currently focused on Generative AI and Agentic AI, while continuing to build ful
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **AI Engineering:** LLM Integration · RAG · MCP · LangChain · LangGraph
 - **Languages & Backend:** Python · TypeScript · Node.js · Java · Go
@@ -35,9 +35,9 @@ Currently focused on Generative AI and Agentic AI, while continuing to build ful
 
 ---
 
-## 🤖 AI Projects
+## AI Projects
 
-### 🏢 Enterprise AI Assistant
+### Enterprise AI Assistant
 
 An enterprise AI assistant focused on retrieving and working with knowledge from enterprise documents.
 
@@ -56,7 +56,7 @@ An enterprise AI assistant focused on retrieving and working with knowledge from
 
 ---
 
-### 🔌 AI-Assisted Dev Toolkit — MCP Server
+###  AI-Assisted Dev Toolkit — MCP Server
 
 An MCP server for AI-assisted IFS Marble/Aurena development, providing tools for code generation and validation.
 
@@ -75,7 +75,7 @@ The approach uses deterministic tooling for tasks that don't require an LLM to r
 
 ---
 
-### 🧠 AI SDLC Pipeline
+###  AI SDLC Pipeline
 
 An AI-assisted software development pipeline that turns structured feature specifications into implementation artifacts.
 
@@ -92,7 +92,7 @@ An AI-assisted software development pipeline that turns structured feature speci
 
 ---
 
-### 📅 Appointment Scheduler Agent
+###  Appointment Scheduler Agent
 
 An AI-powered scheduling application that connects an agent with external services to perform appointment-related tasks.
 
@@ -110,7 +110,7 @@ An AI-powered scheduling application that connects an agent with external servic
 
 ---
 
-## 📡 IoT
+##  IoT
 
 ### IoT Water Quality Monitoring — IFS ESG Hackathon
 
@@ -126,9 +126,9 @@ Built with NodeMCU and C++/Arduino, the solution collects sensor data and sends 
 
 ---
 
-## 💻 Software Engineering Projects
+##  Software Engineering Projects
 
-### 📊 Dashboard App
+###  Dashboard App
 
 A dashboard application built with the MERN stack and Redux, allowing users to add widgets based on generated datasets.
 
@@ -138,7 +138,7 @@ A dashboard application built with the MERN stack and Redux, allowing users to a
 
 ---
 
-### 🧮 Web Development Estimator
+###  Web Development Estimator
 
 A web application that helps designers and developers estimate the time and cost required for a proposed web project.
 
@@ -148,7 +148,7 @@ A web application that helps designers and developers estimate the time and cost
 
 ---
 
-### 🌐 Open Charity
+###  Open Charity
 
 A custom Drupal 7 theme developed for a charity-focused website.
 
@@ -165,24 +165,24 @@ A custom Drupal 7 theme developed for a charity-focused website.
 
 ---
 
-## 💼 Experience Areas
+## Experience Areas
 
-- 🤖 Generative AI & Agentic AI
-- 💻 Full-Stack Engineering
-- 🎨 Frontend & Backend Development
-- ☁️ Cloud & DevOps
-- 🏢 Enterprise Software
-- 📡 IoT & Data Integration
-- ✈️ Aviation & Defence
-- ⚙️ Workflow Automation
-- 🔐 AI Governance, Security & Quality
+-  Generative AI & Agentic AI
+-  Full-Stack Engineering
+-  Frontend & Backend Development
+-  Cloud & DevOps
+-  Enterprise Software
+-  IoT & Data Integration
+-  Aviation & Defence
+-  Workflow Automation
+-  AI Governance, Security & Quality
 
 ---
 
-## 🌐 Find Me Online
+##  Find Me Online
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/subhansanjaya/)
-- ▶️ [YouTube](https://www.youtube.com/@SubhanSanjaya)
-- 📷 [Flickr](https://www.flickr.com/photos/subhansanjaya/)
+-  [LinkedIn](https://www.linkedin.com/in/subhansanjaya/)
+-  [YouTube](https://www.youtube.com/@SubhanSanjaya)
+-  [Flickr](https://www.flickr.com/photos/subhansanjaya/)
 
 ---
